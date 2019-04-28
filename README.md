@@ -2,6 +2,8 @@
 
 A feladatot a BME-VIK Mesterséges Intelligencia tárgy házi feladataként készítettem el. A feladat leírása alább olvasható.
 
+Használt algoritmus: naiv Bayes
+
 **Érzelmek felismerése Twitter-üzenetekben**
 
 **Feladat:**
